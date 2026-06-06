@@ -7,6 +7,8 @@ Error
 Give one example for each.
 
 
+
+
 2)Can we have multiple catch blocks?
 Explain with example when it is useful.
 
